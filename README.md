@@ -1,0 +1,1 @@
+ Developed FEM formulation in Matlab using linear triangular elements and assembled global stiffness and load matrices to compute nodal temperatures and compared results between models with varying number of nodes
